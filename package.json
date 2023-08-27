@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+<<<<<<< HEAD
+    "sweetalert2": "^11.7.23"
+=======
+    "sweetalert2": "^11.7.26"
+>>>>>>> e2e5e9e7606c6589f534292006cd9c7080a6d930
+  }
+}

@@ -1,0 +1,78 @@
+.botonRegistrar{
+    background-color: #39CB58;
+    transition: background-color 0.3s;
+    color: white;
+    padding-top:3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    border: none;
+    border-radius: 5px;
+}
+.botonRegistrar:hover {
+    background-color: #0D9739; /* Color de fondo al hacer hover */
+  }
+
+.botonLimpiar{
+    background-color: #30BCEC;
+    transition: background-color 0.3s;
+    color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+.botonLimpiar:hover {
+    background-color: #2995BA; /* Color de fondo al hacer hover */
+  }
+
+#pencil-icon {
+    color: white; 
+  }
+
+  .disabled {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+/* Estilo para el botón deshabilitado */
+button:disabled {
+  background-color: #B5D2D5; 
+  color: white;
+}
+
+button:disabled:hover {
+  background-color: #B5D2D5; 
+  color: white;
+}
+
+.botonRegresar{
+  background-color: #CF462B;
+  transition: background-color 0.3s;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+.botonRegresar:hover {
+  background-color: #953B29; /* Color de fondo al hacer hover */
+  color: white;
+}
+
+
+.botonEditar{
+  background-color: #F6A816;
+  transition: background-color 0.3s;
+  color: white;
+  padding-top:3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+  border: none;
+  border-radius: 5px;
+}
+
+.botonEditar:hover {
+  background-color: #d8b453; /* Color de fondo al hacer hover */
+}
+
+  

@@ -1,0 +1,12 @@
+@media (max-width: 567px) {
+    .td-description {
+        max-width: 50px; /* Ajusta este valor según tus necesidades */
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+.align-right {
+    margin-right: auto;
+  }
